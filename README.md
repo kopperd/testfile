@@ -1,4 +1,4 @@
 testfile
 ========
 
-only for testing
+only to test
